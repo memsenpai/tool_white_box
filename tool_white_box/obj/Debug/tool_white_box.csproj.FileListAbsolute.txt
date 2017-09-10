@@ -1,0 +1,12 @@
+c:\users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\bin\Debug\tool_white_box.exe.config
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\bin\Debug\tool_white_box.exe
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\bin\Debug\tool_white_box.pdb
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\obj\Debug\tool_white_box.csprojResolveAssemblyReference.cache
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\obj\Debug\tool_white_box.Form1.resources
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\obj\Debug\tool_white_box.Properties.Resources.resources
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\obj\Debug\tool_white_box.csproj.GenerateResource.Cache
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\obj\Debug\tool_white_box.exe
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\obj\Debug\tool_white_box.pdb
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\obj\Debug\tool_white_box.ChoiceFolder.resources
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\bin\Debug\CssConvention.dll
+C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\bin\Debug\CssConvention.pdb
