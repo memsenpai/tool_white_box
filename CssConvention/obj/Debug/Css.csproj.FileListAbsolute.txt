@@ -3,3 +3,9 @@ C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\CssConventio
 C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\CssConvention\obj\Debug\Css.csprojResolveAssemblyReference.cache
 C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\CssConvention\obj\Debug\CssConvention.dll
 C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\CssConvention\obj\Debug\CssConvention.pdb
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\CssConvention\bin\Debug\CssConvention.dll
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\CssConvention\bin\Debug\CssConvention.pdb
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\CssConvention\obj\Debug\Css.csprojResolveAssemblyReference.cache
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\CssConvention\obj\Debug\Css.csproj.CoreCompileInputs.cache
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\CssConvention\obj\Debug\CssConvention.dll
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\CssConvention\obj\Debug\CssConvention.pdb

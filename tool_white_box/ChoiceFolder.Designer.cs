@@ -28,59 +28,74 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
+            this.button = new MetroFramework.Controls.MetroTile();
+            this.textBox1 = new MetroFramework.Controls.MetroTextBox();
             this.SuspendLayout();
+            // 
+            // button
+            // 
+            this.button.ActiveControl = null;
+            this.button.Location = new System.Drawing.Point(232, 3);
+            this.button.Name = "button";
+            this.button.Size = new System.Drawing.Size(106, 50);
+            this.button.TabIndex = 3;
+            this.button.Text = "Select Folder";
+            this.button.UseSelectable = true;
+            this.button.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox1.Enabled = false;
-            this.textBox1.Location = new System.Drawing.Point(58, 7);
+            this.textBox1.BackColor = System.Drawing.Color.DeepSkyBlue;
+            // 
+            // 
+            // 
+            this.textBox1.CustomButton.Image = null;
+            this.textBox1.CustomButton.Location = new System.Drawing.Point(167, 1);
+            this.textBox1.CustomButton.Name = "";
+            this.textBox1.CustomButton.Size = new System.Drawing.Size(51, 51);
+            this.textBox1.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
+            this.textBox1.CustomButton.TabIndex = 1;
+            this.textBox1.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
+            this.textBox1.CustomButton.UseSelectable = true;
+            this.textBox1.CustomButton.Visible = false;
+            this.textBox1.ForeColor = System.Drawing.SystemColors.Control;
+            this.textBox1.Lines = new string[0];
+            this.textBox1.Location = new System.Drawing.Point(0, 11);
+            this.textBox1.MaxLength = 32767;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(277, 20);
-            this.textBox1.TabIndex = 0;
-            // 
-            // button1
-            // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button1.Location = new System.Drawing.Point(244, 33);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(91, 28);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Select Folder";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // label1
-            // 
-            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(7, 14);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(32, 13);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Path:";
+            this.textBox1.PasswordChar = '\0';
+            this.textBox1.PromptText = "Path";
+            this.textBox1.ReadOnly = true;
+            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.textBox1.SelectedText = "";
+            this.textBox1.SelectionLength = 0;
+            this.textBox1.SelectionStart = 0;
+            this.textBox1.ShortcutsEnabled = true;
+            this.textBox1.Size = new System.Drawing.Size(211, 29);
+            this.textBox1.TabIndex = 4;
+            this.textBox1.UseCustomBackColor = true;
+            this.textBox1.UseCustomForeColor = true;
+            this.textBox1.UseSelectable = true;
+            this.textBox1.UseStyleColors = true;
+            this.textBox1.WaterMark = "Path";
+            this.textBox1.WaterMarkColor = System.Drawing.SystemColors.Control;
+            this.textBox1.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel, ((byte)(1)), true);
             // 
             // ChoiceFolder
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.button);
             this.Name = "ChoiceFolder";
-            this.Size = new System.Drawing.Size(341, 79);
+            this.Size = new System.Drawing.Size(341, 56);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label1;
+        private MetroFramework.Controls.MetroTile button;
+        private MetroFramework.Controls.MetroTextBox textBox1;
     }
 }

@@ -2,13 +2,14 @@
 using System.IO;
 using System.Windows.Forms;
 using Css;
+using System.Drawing;
 
 namespace tool_white_box
 {
-    public partial class Form1 : Form
+    public partial class MainFrom : MetroFramework.Forms.MetroForm
     {
         private CssConventions conventions;
-        public Form1()
+        public MainFrom()
         {
             InitializeComponent();
         }
@@ -25,11 +26,16 @@ namespace tool_white_box
                 listView.RowHeadersVisible = false;
                 listView.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
                 tabControl1TabPage.Controls.Add(listView);
-                listView.Width = listView.Parent.Width;
-                listView.Height = listView.Parent.Height;
+                listView.Location = new Point(listView.Parent.Location.X, listView.Parent.Location.Y - 10);
+                listView.Width = listView.Parent.Width - 1;
+                listView.Height = listView.Parent.Height - 1;
             }
         }
 
+        private void initMenuStrip()
+        {
+
+        }
         private void clearView()
         {
             foreach (Control c in tabCss.Controls)
@@ -40,7 +46,15 @@ namespace tool_white_box
                     list.Rows.Clear();
                 }
             }
-            foreach (Control c in tabJS.Controls)
+            foreach (Control c in tabJs.Controls)
+            {
+                if (c is DataGridView)
+                {
+                    DataGridView list = (DataGridView)c;
+                    list.Rows.Clear();
+                }
+            }
+            foreach (Control c in tabHtml.Controls)
             {
                 if (c is DataGridView)
                 {

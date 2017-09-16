@@ -10,3 +10,31 @@ C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_b
 C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\obj\Debug\tool_white_box.ChoiceFolder.resources
 C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\bin\Debug\CssConvention.dll
 C:\Users\sorry\documents\visual studio 2015\Projects\tool_white_box\tool_white_box\bin\Debug\CssConvention.pdb
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\tool_white_box.exe.config
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\tool_white_box.exe
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\tool_white_box.pdb
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\CssConvention.dll
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\CssConvention.pdb
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.csprojResolveAssemblyReference.cache
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.ChoiceFolder.resources
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.Properties.Resources.resources
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.csproj.GenerateResource.Cache
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.csproj.CoreCompileInputs.cache
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.exe
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.pdb
+C:\Users\lontonbagang\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.mainFrom.resources
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\tool_white_box.exe.config
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.exe
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.pdb
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\tool_white_box.exe
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\tool_white_box.pdb
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\CssConvention.dll
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\MetroFramework.Design.dll
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\MetroFramework.dll
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\bin\Debug\CssConvention.pdb
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.csprojResolveAssemblyReference.cache
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.ChoiceFolder.resources
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.MainFrom.resources
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.Properties.Resources.resources
+C:\Users\sorry\Desktop\tool_white_box-master\tool_white_box-master\tool_white_box-master\tool_white_box\obj\Debug\tool_white_box.csproj.GenerateResource.Cache
